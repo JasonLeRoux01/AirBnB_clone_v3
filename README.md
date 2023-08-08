@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Afolabi John Oluwaseun
+Jason Le Roux
 
 ## Contributors
 Uche Esere Orji
